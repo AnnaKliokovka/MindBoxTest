@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindTestLib", "MindTest\MindTestLib.csproj", "{329CDC4C-DD63-4F02-A64A-1A5D6DCC47F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindTestUnits", "MindTestUnits\MindTestUnits.csproj", "{CBFD3A48-972F-4DAF-9F43-817273FA575F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329CDC4C-DD63-4F02-A64A-1A5D6DCC47F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329CDC4C-DD63-4F02-A64A-1A5D6DCC47F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329CDC4C-DD63-4F02-A64A-1A5D6DCC47F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329CDC4C-DD63-4F02-A64A-1A5D6DCC47F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFD3A48-972F-4DAF-9F43-817273FA575F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFD3A48-972F-4DAF-9F43-817273FA575F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFD3A48-972F-4DAF-9F43-817273FA575F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFD3A48-972F-4DAF-9F43-817273FA575F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07DFAD19-8E3D-4FEE-BED7-65A23FE5A8E7}
+	EndGlobalSection
+EndGlobal
